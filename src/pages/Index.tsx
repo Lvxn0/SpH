@@ -25,7 +25,7 @@ const Index = () => {
             <div className="bg-amber-100 border-l-4 border-amber-500 p-4 rounded-r-lg inline-block">
               <p className="text-lg md:text-xl text-slate-700 font-medium">
                 Our website is being built with the same care we put into every
-                kitchen.
+                kitchen .
               </p>
             </div>
           </div>
@@ -97,11 +97,12 @@ const Index = () => {
               <Phone className="mx-auto mb-4 text-amber-400" size={32} />
               <h3 className="text-xl font-semibold mb-2">Call Us</h3>
               <p className="text-slate-300 mb-2">Available Mon-Fri 8AM-6PM</p>
+
               <a
                 href="tel:+447123456789"
                 className="text-amber-400 hover:text-amber-300 font-medium text-lg"
               >
-                +44 7123 456 789
+                077 8023 9847
               </a>
             </div>
 
@@ -113,7 +114,7 @@ const Index = () => {
                 href="mailto:info@kitchenfitting.co.uk"
                 className="text-amber-400 hover:text-amber-300 font-medium"
               >
-                info@kitchenfitting.co.uk
+                info@specialhomeimprovements.co.uk
               </a>
             </div>
 
@@ -121,7 +122,7 @@ const Index = () => {
               <MapPin className="mx-auto mb-4 text-amber-400" size={32} />
               <h3 className="text-xl font-semibold mb-2">Service Area</h3>
               <p className="text-slate-300 mb-2">Covering all of</p>
-              <p className="text-amber-400 font-medium">United Kingdom</p>
+              <p className="text-amber-400 font-medium">London</p>
             </div>
           </div>
         </section>
