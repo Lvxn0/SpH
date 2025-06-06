@@ -18,7 +18,7 @@ const Index = () => {
             <div className="flex justify-center items-center gap-4 mb-8">
               <Construction className="text-amber-600" size={48} />
               <h1 className="text-4xl md:text-6xl font-bold text-slate-800">
-                Website Under Construction
+                Website Under Construction wer
               </h1>
               <Construction className="text-amber-600" size={48} />
             </div>
